@@ -1,6 +1,6 @@
 # blackfridaysales
 
-**Exploratory Data Analysis and Predictive Analysis with SQL and Python** 
+**Exploratory Data Analysis and Predictive Analysis with SQL and Python** \n
 kaggle datasets download -d pranavuikey/black-friday-sales-eda
 
 Challenge:
